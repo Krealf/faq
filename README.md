@@ -1,7 +1,3 @@
-[<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OldCodersClub/faq?logoColor=red&style=social">](https://github.com/OldCodersClub/faq/stargazers)
-[<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/OldCodersClub/faq?logoColor=red&style=social">](https://github.com/OldCodersClub/faq/watchers)
-[<img alt="GitHub forks" src="https://img.shields.io/github/forks/OldCodersClub/faq?logoColor=red&style=social">](https://github.com/OldCodersClub/faq/network/members)
-
 # [Клуб дедов-программистов](https://t.me/oldcodersclub) FAQ
 
 В этом репозитории находится полезная информация, собранная участниками чата.  
